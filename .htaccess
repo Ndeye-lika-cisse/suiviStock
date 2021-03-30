@@ -1,0 +1,4 @@
+#RewriteEngine On
+#RewriteRule ^user/liste$ src/view/user/listeUser.php
+#RewriteRule ^produit/liste$ src/view/produit/listeProduit.php
+#RewriteRule ^accueil$ accueil.php
